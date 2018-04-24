@@ -1,0 +1,22 @@
+im.org.name: 1117180227146208
+im.app.name: mediacalchat
+im.client.id: YXA6BQ36oBthEei7yL97Qm1PlQ
+im.client.secret: YXA6o8TIamQECTLTMvCupu3xP9wU5GE
+im.grant.type: client_credentials
+
+oss.endpoint: oss-cn-shanghai.aliyuncs.com
+oss.access.keyId: LTAIGbIS4VLV6iis
+oss.access.keySecret: sPhBEEg0cH2CunwwZeDxUrmnBja5p7
+oss.pub.bucket.name: fwmsoss
+oss.pri.bucket.name: haieross
+oss.pub.visit.url: http://fwmsoss.oss-cn-shanghai.aliyuncs.com/
+
+#群组默认名称
+im.community.name: 永慈康复在线群组
+#群组默认描述
+im.community.desc: 康复、护理
+
+#账户加密字符
+im.account.name.md5str: 2
+#账户密码加密字符
+im.account.pwd.md5str: 1

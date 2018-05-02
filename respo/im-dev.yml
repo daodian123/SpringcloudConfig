@@ -12,7 +12,7 @@ oss.pri.bucket.name: haieross
 oss.pub.visit.url: http://fwmsoss.oss-cn-shanghai.aliyuncs.com/
 
 #群组默认名称
-im.community.name: 永慈康复在线群组
+im.community.name: 盈康LIFE在线群组
 #群组默认描述
 im.community.desc: 康复、护理
 

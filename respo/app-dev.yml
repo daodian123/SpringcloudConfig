@@ -3,7 +3,7 @@ knowledge: 知;院内通知;永慈医院住院须知，请您查看;同济十院
 report: 报;我的报告;线上缴费，无需排队等候;查看用药，清晰了解用量;查看报告，了解所需内容
 fee: 费;我的费用;您4月10日的费用账单已出，请查看;您处方药物费用已出，请查看;您检验检查费用已出，请查看
 relative: 亲;亲情关注;您的爸爸关注了您，请点击查看;您的妈妈关注了您，请点击查看;您的妻子关注了您，请点击查看
-admission: http://10.164.81.204/webstatic/hospitalinformation.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522293883291.V0001.png;住院须知;2
+admission: http://47.96.70.210:8085/yingkang/hospitalinformation.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522293883291.V0001.png;住院须知;2
 myfamily: http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522294331177.V0001.png;我的家人;1
-myfee: http://10.164.81.204/webstatic/mycost.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522294464924.V0001.png;我的费用;2
-qualityservice: http://10.164.81.204/webstatic/qualitysever.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522294798633.V0001.png;品质服务;2
+myfee: http://47.96.70.210:8085/yingkang/mycost.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522294464924.V0001.png;我的费用;2
+qualityservice: http://47.96.70.210:8085/yingkang/qualitysever.html;http://fwmsoss.oss-cn-shanghai.aliyuncs.com/1522294798633.V0001.png;品质服务;2

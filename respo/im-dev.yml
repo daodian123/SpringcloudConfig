@@ -1,7 +1,11 @@
+#im.org.name: 1117180227146208
 im.org.name: 1117180227146208
-im.app.name: mediacalplatform_yklife
-im.client.id: YXA6BQ36oBthEei7yL97Qm1PlQ
-im.client.secret: YXA6o8TIamQECTLTMvCupu3xP9wU5GE
+#im.app.name: mim.org.name: 1117180227146208ediacalplat
+im.app.name: mediacalplatform-yklife
+#im.client.id: YXA6BQ36oBthEei7yL97Qm1PlQ
+im.client.id: YXA64NC1UG70Eeicd4tjjVj5hQ
+#im.client.secret: YXA6o8TIamQECTLTMvCupu3xP9wU5GE
+im.client.secret: YXA6jZU7E2P3oHnzjmyMh78RThd8eug
 im.grant.type: client_credentials
 
 #oss.endpoint: oss-cn-shanghai.aliyuncs.com
